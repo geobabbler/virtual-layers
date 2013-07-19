@@ -1,0 +1,14 @@
+{
+  "vlayers": [{
+		"vlayer": {
+			"featureSources": ["feature1.json",
+			"feature2.json"]
+		}
+	},
+	{
+		"vlayer": {
+			"featureSources": ["feature3.json",
+			"feature4.json"]
+		}
+	}]
+}
