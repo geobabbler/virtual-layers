@@ -1,0 +1,1 @@
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "SCHOOLS_": 6.0, "SCHOOLS_ID": 6.0, "NAME": "CHOPTICON HIGH SCHOOL", "TYPE": "H", "ZONING": "RPD", "Type_II": "High School" }, "geometry": { "type": "Point", "coordinates": [ -76.707135493319342, 38.360080264109186 ] } }
