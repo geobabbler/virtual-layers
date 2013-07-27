@@ -1,10 +1,10 @@
 {
-  "vlayers": {[{
+  "vlayers": [{
 		"vlayer": {
 			"featureSources": ["chopticon.json",
 			"leonardtown.json",
 			"great_mills.json"]
 		}
 	}
-	]}
+	]
 }
