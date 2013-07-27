@@ -1,5 +1,5 @@
 {
-  "vlayers": [{
+  [{
 		"vlayer": {
 			"featureSources": ["chopticon.json",
 			"leonardtown.json",
